@@ -1,0 +1,11 @@
+Pry library will help with debugging
+
+Usage: require 'pry'
+
+Create Break Point: binding.pry
+
+Breakpoint drops you to something like IRB
+
+DO NOT COMMIT ANYTHING WITH PRY. Remove all binding.pry, and require 'pry' instances.
+
+
