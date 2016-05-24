@@ -8,6 +8,10 @@ Breakpoint drops you to something like IRB
 
 DO NOT COMMIT ANYTHING WITH PRY. Remove all binding.pry, and require 'pry' instances.
 
+Byebug makes some changes to Pry
+
+Usage: require 'byebug'
+
 byebug features VVV
 
 Step: Move one line + enter methods
