@@ -1,0 +1,22 @@
+Purpose
+---------------
+ - Undarstand the power of regex & when to use it
+ - Practice testing
+ - Practice Pair Programming
+ - Example code
+  -> Write Regex to satisfy Conditions
+  -> Answer questions in the comments
+
+Resources
+---------------
+ - Ruby Docs
+ - Pickake
+ - Rubular
+ - regex101
+ - regexpal.com
+
+ Gotchas
+---------------
+ - Don't Over Engineer
+ - Don't Be Greedy (Regex)
+ - Care about edge cases
