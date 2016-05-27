@@ -1,18 +1,95 @@
-Pourpose
----------------
- - Practicing Blacks
- - Understanding Select, Detect, and Yield
- - Examplecode
-  ->  Implument Method
+Blocks and Ruby
+
+Purpose
+understanding and using blocks
+understanding select and detect
+“ yield
+— implement the benchmark 
 
 Resources
----------------
- - Blocks & Yields
- - Building Blocks
- - Gist
- - Today's Lecure
- - Ruby docs
+Gist Link
+2 articles
+todays lecture
 
- Gotch,s
----------------
- - Dont Over Engineer
+Gotchas
+over-engineering
+
+Regular Expressions (Pair)
+
+Purpose
+Understanding Regex
+Clearer Regex
+Testing Regex
+When to use?
+	example code -> regex
+	questions in comment -> answer
+Resources
+Ruby docs
+tubular
+regex 101
+
+Gotchas
+Over Engineering
+don’t be greedy
+edge cases 
+Candidates (CR)
+
+Purpose
+Intro to multi-file programs
+learn requiring files
+practice pry
+refactoring?
+think before you do
+practice REPL
+accessing data (sym /hashes)
+sort/filtering
+
+Resources
+Gist
+today’s code
+previous exercises (states etc)
+
+Gotchas
+Don’t overengineer
+edge cases
+right methods?
+scope
+ask for help
+
+2 Player Game
+
+Purpose
+learning/practicing math random
+learn/practice pseudo code
+
+Resources
+pseudo code example
+TIPS in assignment
+
+Gotchas
+Don’t overengineer
+edge cases
+right methods?
+
+MUST BE A GITHUB REPOSITORY
+
+
+CodeAcademy OOP
+
+Purpose
+Do Code Academy!
+
+Resources
+
+
+Gotchas
+Don’t overengineer
+edge cases
+right methods?
+Ruby Explained(Readings)
+
+Purpose
+READ
+answer readings questions
+
+Resources
