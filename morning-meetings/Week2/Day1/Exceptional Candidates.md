@@ -8,6 +8,7 @@
 
 + See Compass 
 + Debugging W1D2
++ Today's Breakout
 + RSpec
 
 ### WTF?
