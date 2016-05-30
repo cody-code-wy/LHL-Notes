@@ -2,8 +2,6 @@
 
 ## Victoria Cohort
 
-***
-
 ###### Maintained by William Young
 
 *** 
