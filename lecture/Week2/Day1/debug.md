@@ -17,6 +17,8 @@ You can now use the following commands to navigate your code (This is not an exh
 + `continue` Continue running the program like normal, will only relaunch byebug when a new `byebug` happens
 + `exit` Stop running the program, return to terminal
 
+You can also execute nearly any ruby code, such as `puts my_var` so you can inspect your variables, and functions.
+
 ### When you are done debugging
 
 You should **always** remove all `byebug` lines and `require 'byebug'` from your code before pushing to git, or completing a code review!
