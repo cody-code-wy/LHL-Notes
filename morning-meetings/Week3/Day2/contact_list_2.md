@@ -5,7 +5,7 @@
  - Yesterday Readings
  - Weekend Readings
  - [Wikipedia Object Relation Mapping](http://en.wikipedia.org/wiki/Object-relational_mapping)
- - [Git Cheat Sheet (Dons)](http://d.pr/f/V0Gz/3kJwGMre)
+ - [Git Cheat Sheet (Don's)](http://d.pr/f/V0Gz/3kJwGMre)
  - [PG Gem docs](http://www.rubydoc.info/gems/pg)
  - Original Implementation of Contact List (W2D1)
 
