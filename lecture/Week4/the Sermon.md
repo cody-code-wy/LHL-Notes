@@ -182,7 +182,7 @@ Tools for wireframing
 
 - Balsomic
 - Moqups
-- wireframes.cc
+- (wireframes)[wireframes.cc]
 - Pencil (mozila)
 - In vision
 - Google Sketch
