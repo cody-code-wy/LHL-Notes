@@ -1,0 +1,29 @@
+Purpose
+---------------
+ - Make something parctical
+ - Practice how to require files
+ - Using Pry
+ - Refactoring
+ - Thinking before you code
+ - REPL
+ - Accessing data using symbols & hashes
+ - Modifying terminal
+ - Edge Cases
+ - Finding the right method
+ - Filtering Data
+
+ Resources
+---------------
+ - Ruby Docs
+ - Today's Lecture
+ - Yesterday's Lecture
+ - Gist
+ - States & Cities
+
+Gotchas
+---------------
+ - Dont Over Engineer
+ - Edge cases
+ - Scope
+ - When to ask for help
+ - Neat and Tidy methods
